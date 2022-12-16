@@ -1,11 +1,12 @@
-![BSAM-02](https://user-images.githubusercontent.com/118806905/203372814-297aeb0f-8c47-425b-85f0-fa3965e2e8c2.jpg)
+
+![image](https://user-images.githubusercontent.com/71763483/208134625-6eadf68b-7b85-4a5a-b069-5278ce9d3fe8.png)
 
 ## Contents
 - [Contents](#contents)
 - [About](#about)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
-- [Citing BSAM](#citing-bsam)
+- [Citing ATOM](#citing-atom)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -26,33 +27,28 @@ Read the full [documentation](https://teeslab.unipi.gr/wp-content/uploads/2022/1
 
 ## Citing ATOM
 In academic literature please cite ATOM as: 
->[![article DOI] Stavrakas, V., Papadelis, S., & Flamos, A. (2019).  An agent-based model to simulate technology adoption quantifying behavioural uncertainty of consumers.  *Applied Energy*, *255*, 113795. https://doi.org/10.1016/j.apenergy.2019.113795
+Stavrakas, V., Papadelis, S., & Flamos, A. (2019).  An agent-based model to simulate technology adoption quantifying behavioural uncertainty of consumers.  *Applied Energy*, *255*, 113795. https://doi.org/10.1016/j.apenergy.2019.113795
 
 
 ## License
-The **ΑΤΟΜ source code**, consisting of the *.py* files, is licensed under the MIT license:
->MIT License 
+The **ΑΤΟΜ source code**, consisting of the *.py* files, is licensed under the GNU Affero General Public License :
+>GNU Affero General Public License 
 >
->Copyright (c) 2022 TEESlab-UPRC
->
->Permission is hereby granted, free of charge, to any person obtaining a copy
->of this software and associated documentation files (the "Software"), to deal
->in the Software without restriction, including without limitation the rights
->to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
->copies of the Software, and to permit persons to whom the Software is
->furnished to do so, subject to the following conditions:
->
->The above copyright notice and this permission notice shall be included in all
->copies or substantial portions of the Software.
->
->THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
->IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
->FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
->AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
->LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
->OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
->SOFTWARE.
-The input data contained in the **Data** folder are collected through publicly available sources, or are modified/simplified versions of private data. BSAM license does not apply to input data.
+>Copyright (C) 2022 Technoeconomics of Energy Systems laboratory - University of Piraeus Research Center (TEESlab-UPRC)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+The input data contained in the **Data** folder are collected through publicly available sources, or are modified/simplified versions of private data. ATOM license does not apply to input data.
 
 ## Acknowledgements
 The development of ATOM has been partially funded by the following sources:
