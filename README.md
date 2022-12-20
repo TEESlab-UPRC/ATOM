@@ -20,7 +20,7 @@ It consists of three main modelling modules: (i) a calibration module to define 
 * Download ATOM from Github and save it in a folder of your preference.
 * Using a terminal (command line) navigate to the ATOM directory.
 * Type pip install -r requirements.txt.
-* Using a terminal (command line) navigate to the [country]/simulations directory.
+* Using a terminal (command line) navigate to the simulations directory.
 * Type python simulations_NEM.py to run the preconfigured example.
 
 ## Documentation
