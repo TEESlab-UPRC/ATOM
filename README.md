@@ -28,9 +28,9 @@ Read the full documentation [here](http://teeslab.unipi.gr/wp-content/uploads/20
 
 ## Citing ATOM
 In academic literature please cite ATOM as: 
-* Stavrakas, V., Papadelis, S., & Flamos, A. (2019).  An agent-based model to simulate technology adoption quantifying behavioural uncertainty of consumers.  *Applied Energy*, *255*, 113795. https://doi.org/10.1016/j.apenergy.2019.113795
-* Michas, S., Stavrakas, V., Papadelis, S., & Flamos, A. (2020). A transdisciplinary modeling framework for the participatory design of dynamic adaptive policy pathways. https://doi.org/10.1016/j.enpol.2020.111350
-* Papadelis, S., & Flamos, A. (2019). An application of calibration and uncertainty quantification techniques for agent-based models. In H. Doukas, A. Flamos, & J. Lieu (Eds.), *Understanding Risks and Uncertainties in Energy and Climate Policy - Multidisciplinary Methods and Tools for a Low Carbon Society, Springer book series* (pp. 79–95). Springer, Cham. https://doi.org/https://doi.org/10.1007/978-3-030-03152-7_3
+* Stavrakas, V., Papadelis, S., & Flamos, A. (2019).  An agent-based model to simulate technology adoption quantifying behavioural uncertainty of consumers.  *Applied Energy*, *255*, 113795. https://doi.org/10.1016/j.apenergy.2019.113795.
+* Michas, S., Stavrakas, V., Papadelis, S., & Flamos, A. (2020). A transdisciplinary modeling framework for the participatory design of dynamic adaptive policy pathways. https://doi.org/10.1016/j.enpol.2020.111350.
+* Papadelis, S., & Flamos, A. (2019). An application of calibration and uncertainty quantification techniques for agent-based models. In H. Doukas, A. Flamos, & J. Lieu (Eds.), *Understanding Risks and Uncertainties in Energy and Climate Policy - Multidisciplinary Methods and Tools for a Low Carbon Society, Springer book series* (pp. 79–95). Springer, Cham. https://doi.org/https://doi.org/10.1007/978-3-030-03152-7_3.
 
 
 ## License
