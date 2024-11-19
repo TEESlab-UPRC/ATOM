@@ -1,0 +1,11 @@
+Var,Min,Max
+belief_mean_mu,43,47
+belief_mean_sigma,3,8
+belief_var_mu,24,24
+belief_var_sigma,0,2
+w1_mu,3.8,4.2
+w1_sigma,0.15,0.35
+w2_mu,8,13
+w2_sigma,1.5,3
+propensity_mu,48,52
+propensity_sigma,1.5,3
