@@ -16,15 +16,15 @@
 It consists of three main modelling modules: (i) a calibration module to define the set of the key parameters that govern the agents’ behaviour and appropriate value ranges based on historical data/  observations; (ii) a sensitivity analysis (SA) module that allows to quantify and consider uncertainties that are related to the characteristics and the decision-making criteria of the agents, and (iii) a scenario analysis module to explore the plausible behaviour of the potential adopters in the geographic and socioeconomic contexts under study, for policy schemes of interest (i.e., forward-looking simulations).
 
 ## Quick start
-* Install Python 3.8.
+* Install Python 3.9.0.
 * Download ATOM from Github and save it in a folder of your preference.
 * Using a terminal (command line) navigate to the ATOM directory.
 * Type pip install -r requirements.txt.
 * Using a terminal (command line) navigate to the simulations directory.
-* Type python simulations_NEM.py to run the preconfigured example.
+* Type "python simulations_NEM.py" or "python simulations_FiT.py" (without quotes) to run the two preconfigured examples.
 
 ## Documentation
-Read the full documentation [here](http://teeslab.unipi.gr/wp-content/uploads/2022/12/ΑΤΟΜ-Documentation_v1.0.pdf).
+Read the full documentation [here](https://teeslab.unipi.gr/wp-content/uploads/2024/11/%CE%91%CE%A4%CE%9F%CE%9C_documentation_v2.0_FINAL.pdf).
 
 ## Citing ATOM
 In academic literature please cite ATOM as: 
@@ -55,5 +55,6 @@ The input data contained in the **Data** folder are collected through publicly a
 
 ## Acknowledgements
 The development of ATOM has been partially funded by the following sources:
-* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with grant agreement No. 837089
-* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Transition pathways and risk analysis for climate change policies" (TRANSrisk) with grant agreement No. 642260
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with grant agreement No. 837089.
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Transition pathways and risk analysis for climate change policies" (TRANSrisk) with grant agreement No. 642260.
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Energy citizens for inclusive decarbonisation" (ENCLUDE)  with grant agreement No. 101022791.
