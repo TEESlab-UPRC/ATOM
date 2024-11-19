@@ -24,7 +24,7 @@ It consists of three main modelling modules: (i) a calibration module to define 
 * Type "python simulations_NEM.py" or "python simulations_FiT.py" (without quotes) to run the two preconfigured examples.
 
 ## Documentation
-Read the full documentation [here](https://teeslab.unipi.gr/wp-content/uploads/2024/11/%CE%91%CE%A4%CE%9F%CE%9C_documentation_v2.0_FINAL.pdf).
+Read the full documentation [here](https://teeslab.unipi.gr/wp-content/uploads/2024/11/%CE%91%CE%A4%CE%9F%CE%9C_documentation_v2.0_FINAL-1.pdf).
 
 ## Citing ATOM
 In academic literature please cite ATOM as: 
