@@ -55,6 +55,6 @@ The input data contained in the **Data** folder are collected through publicly a
 
 ## Acknowledgements
 The development of ATOM has been partially funded by the following sources:
+* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Energy citizens for inclusive decarbonisation" (ENCLUDE)  with grant agreement No. 101022791.
 * The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Sustainable energy transitions laboratory" (SENTINEL) with grant agreement No. 837089.
 * The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Transition pathways and risk analysis for climate change policies" (TRANSrisk) with grant agreement No. 642260.
-* The EC funded Horizon 2020 Framework Programme for Research and Innovation (EU H2020) Project titled "Energy citizens for inclusive decarbonisation" (ENCLUDE)  with grant agreement No. 101022791.
